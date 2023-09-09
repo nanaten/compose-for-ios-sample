@@ -1,1 +1,1 @@
-# compose-for-ios-sample
+# compose-for-ios-sample-app
